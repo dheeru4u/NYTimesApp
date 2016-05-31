@@ -44,10 +44,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/6JCXdxm.gif' title='Article detail view and share link Video Walkthrough' alt='Video Walkthrough' />
+Search and endless scroll
+<img src='https://i.imgur.com/OG11ebN.gif' title='Search and endless scroll link Video Walkthrough' alt='Video Walkthrough' />
 
-if above gif is does not load due to large size,  please use this like for direct view:
-    http://i.imgur.com/6JCXdxm.gif
+Search and filter options:
+
+<img src='https://i.imgur.com/1nlXCkH.gifv' title='Search and endless scroll link Video Walkthrough' alt='Video Walkthrough' />
+
 
 Article detail view and share link Video Walkthrough
 
