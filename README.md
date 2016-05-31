@@ -44,9 +44,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Search, filter and sort Video Walkthrough
+
 <img src='http://i.imgur.com/SbDd6ld.gif' title='Search, filter and sort Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Article detail view and share link Video Walkthrough
+
 <img src='http://i.imgur.com/syRMgWa.gif' title='Article detail view and share link Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+Wffi or networking faiture and messages Video Walkthrough
 
 <img src='http://i.imgur.com/K8dY5Vf.gif' title='wffi or networking faiture and messages Video Walkthrough' width='' alt='Video Walkthrough' />
 
