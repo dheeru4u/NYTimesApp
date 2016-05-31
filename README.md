@@ -45,16 +45,16 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://i.imgur.com/SbDd6ld.gif' title='Search, filter and sort Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/SbDd6ld.gif' title='Search filter and sort Video Walkthrough' alt='click here https://i.imgur.com/SbDd6ld.gif' />
 
 Article detail view and share link Video Walkthrough
 
-    <img src='https://i.imgur.com/syRMgWa.gif' title='Article detail view and share link Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/syRMgWa.gif' title='Article detail view and share link Video Walkthrough' alt='Video Walkthrough' />
 
 
 Wifi or networking faiture and messages Video Walkthrough
 
-    <img src='https://i.imgur.com/K8dY5Vf.gif' title='wffi or networking faiture and messages Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src='https://i.imgur.com/K8dY5Vf.gif' title='wffi or networking faiture and messages Video Walkthrough' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
