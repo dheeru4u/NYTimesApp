@@ -46,6 +46,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/6JCXdxm.gif' title='Article detail view and share link Video Walkthrough' alt='Video Walkthrough' />
 
+if above gif is does not load due to large size,  please use this like for direct view:
+    http://i.imgur.com/6JCXdxm.gif
+
 Article detail view and share link Video Walkthrough
 
 <img src='https://i.imgur.com/syRMgWa.gif' title='Article detail view and share link Video Walkthrough' alt='Video Walkthrough' />
