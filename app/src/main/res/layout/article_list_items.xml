@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+    android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:padding="2dp">
+
+<com.dheeru.app.news.view.ArticleResizableImageView
+    android:id="@+id/articleThumNailwebUrl"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/myphoto"
+    android:background="@color/white"
+    android:adjustViewBounds="true"
+    android:scaleType="fitXY"
+    />
+
+<TextView
+    android:id="@+id/artHeadLineTextView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:maxLines="4"
+    android:ellipsize="end"
+    android:text="@string/article_text"
+    android:gravity="center_horizontal"
+    android:textSize="@dimen/item_textSize"
+    android:textAppearance="?android:attr/textAppearanceSmall"
+    android:background="@color/white"
+    android:textColor="@color/black"
+    />
+
+</LinearLayout>
